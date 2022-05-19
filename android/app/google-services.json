@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462156011034",
+    "project_id": "video-stream-fa6d1",
+    "storage_bucket": "video-stream-fa6d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462156011034:android:33ffbc8c364e8d5f4fa3a3",
+        "android_client_info": {
+          "package_name": "com.example.code_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462156011034-ee7v5t89d1i63me4h6i70eplm7kjola4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvTlsy0eQNaYdoz7ANOF776WlSYdXhiU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462156011034-ee7v5t89d1i63me4h6i70eplm7kjola4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
